@@ -1,0 +1,324 @@
+{
+    "transaction": [
+      {
+        "AccountId": "11111111",
+        "TransactionId": "a1c2f566-9983-4b82-8e8d-9b71b4d8a2a1",
+        "TransactionReference": "ABC SUPERMARKET",
+        "StatementReference": ["ABC SUPERMARKET"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-01T00:00:00.000Z",
+        "ValueDateTime": "2020-12-01T00:00:00.000Z",
+        "TransactionInformation": "ABC SUPERMARKET",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "15.30",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "b3f73c92-549d-4c52-a2b1-995bfb2bb1b2",
+        "TransactionReference": "STAR CINEMA",
+        "StatementReference": ["STAR CINEMA"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-02T00:00:00.000Z",
+        "ValueDateTime": "2020-12-02T00:00:00.000Z",
+        "TransactionInformation": "STAR CINEMA",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "5.75",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "83e2c27a-8cbf-4dbb-bbbc-5b2b0b5476ad",
+        "TransactionReference": "CAFE DELIGHT",
+        "StatementReference": ["CAFE DELIGHT"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-03T00:00:00.000Z",
+        "ValueDateTime": "2020-12-03T00:00:00.000Z",
+        "TransactionInformation": "CAFE DELIGHT",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "7.25",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "ef9b8b18-73cb-43b9-8b7b-d2a7b5c7dc83",
+        "TransactionReference": "TECH STORE",
+        "StatementReference": ["TECH STORE"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-04T00:00:00.000Z",
+        "ValueDateTime": "2020-12-04T00:00:00.000Z",
+        "TransactionInformation": "TECH STORE",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "125.50",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "ca9fd4cb-5e27-44a1-88ed-b9f75a82fb01",
+        "TransactionReference": "GAS STATION",
+        "StatementReference": ["GAS STATION"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-05T00:00:00.000Z",
+        "ValueDateTime": "2020-12-05T00:00:00.000Z",
+        "TransactionInformation": "GAS STATION",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "10.00",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "cc05c51a-631a-4926-9ebd-7a5ef3cb657e",
+        "TransactionReference": "CITY MALL",
+        "StatementReference": ["CITY MALL"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-06T00:00:00.000Z",
+        "ValueDateTime": "2020-12-06T00:00:00.000Z",
+        "TransactionInformation": "CITY MALL",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "200.75",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "d51c86d3-4731-4d93-84f0-e7a41b2d1e5c",
+        "TransactionReference": "3LINES RESTAURANT",
+        "StatementReference": ["3LINES RESTAURANT"],
+        "CreditDebitIndicator": "Credit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-07T00:00:00.000Z",
+        "ValueDateTime": "2020-12-07T00:00:00.000Z",
+        "TransactionInformation": "3LINES RESTAURANT",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "3.04",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "ea13a932-f40d-4e5b-b75b-b92d6e0babc2",
+        "TransactionReference": "ZARA STORE",
+        "StatementReference": ["ZARA STORE"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-08T00:00:00.000Z",
+        "ValueDateTime": "2020-12-08T00:00:00.000Z",
+        "TransactionInformation": "ZARA STORE",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "80.50",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "fa46e6f1-205a-4e70-bc30-4f0a1a63f16d",
+        "TransactionReference": "PHARMACY PLUS",
+        "StatementReference": ["PHARMACY PLUS"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-09T00:00:00.000Z",
+        "ValueDateTime": "2020-12-09T00:00:00.000Z",
+        "TransactionInformation": "PHARMACY PLUS",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "12.95",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "4539e932-598d-4052-a1ac-8c0cccfcd67c",
+        "TransactionReference": "PIZZA HUT",
+        "StatementReference": ["PIZZA HUT"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-10T00:00:00.000Z",
+        "ValueDateTime": "2020-12-10T00:00:00.000Z",
+        "TransactionInformation": "PIZZA HUT",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "9.20",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "6f29fc82-8c30-4e6b-bc9f-888f2d5423f7",
+        "TransactionReference": "BOUTIQUE A",
+        "StatementReference": ["BOUTIQUE A"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-11T00:00:00.000Z",
+        "ValueDateTime": "2020-12-11T00:00:00.000Z",
+        "TransactionInformation": "BOUTIQUE A",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "45.30",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "17d59d5e-bde6-4b64-8826-d978f6b43973",
+        "TransactionReference": "BOOK STORE",
+        "StatementReference": ["BOOK STORE"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-12T00:00:00.000Z",
+        "ValueDateTime": "2020-12-12T00:00:00.000Z",
+        "TransactionInformation": "BOOK STORE",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "23.40",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "d27a61ad-2f68-4f5a-8499-e6f5f2a4d93b",
+        "TransactionReference": "APPLE STORE",
+        "StatementReference": ["APPLE STORE"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-13T00:00:00.000Z",
+        "ValueDateTime": "2020-12-13T00:00:00.000Z",
+        "TransactionInformation": "APPLE STORE",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "320.00",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "f42a30cf-f953-4e0d-87ab-189c3bc55c97",
+        "TransactionReference": "CAR WASH",
+        "StatementReference": ["CAR WASH"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-14T00:00:00.000Z",
+        "ValueDateTime": "2020-12-14T00:00:00.000Z",
+        "TransactionInformation": "CAR WASH",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "4.50",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "753e1eeb-b6ed-4c95-8b15-cc5bb6762ca2",
+        "TransactionReference": "MOVIE TICKETS",
+        "StatementReference": ["MOVIE TICKETS"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-15T00:00:00.000Z",
+        "ValueDateTime": "2020-12-15T00:00:00.000Z",
+        "TransactionInformation": "MOVIE TICKETS",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "7.50",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "7966ce3b-65ef-44e3-ac8a-5c12452ab1e9",
+        "TransactionReference": "3LINES RESTAURANT",
+        "StatementReference": ["3LINES RESTAURANT"],
+        "CreditDebitIndicator": "Credit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-16T00:00:00.000Z",
+        "ValueDateTime": "2020-12-16T00:00:00.000Z",
+        "TransactionInformation": "3LINES RESTAURANT",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "3.04",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "a9f7ec17-36c9-4687-8428-1d9f4b9b1dd8",
+        "TransactionReference": "ICE CREAM PARLOR",
+        "StatementReference": ["ICE CREAM PARLOR"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-17T00:00:00.000Z",
+        "ValueDateTime": "2020-12-17T00:00:00.000Z",
+        "TransactionInformation": "ICE CREAM PARLOR",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "4.75",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "23c9c6be-dbd2-4c7a-8f47-73c37205ed5b",
+        "TransactionReference": "HOME STORE",
+        "StatementReference": ["HOME STORE"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-18T00:00:00.000Z",
+        "ValueDateTime": "2020-12-18T00:00:00.000Z",
+        "TransactionInformation": "HOME STORE",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "75.00",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "9ef4bd1a-9f2a-4c0b-9b75-9332874bc9a7",
+        "TransactionReference": "CLOTHING OUTLET",
+        "StatementReference": ["CLOTHING OUTLET"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-19T00:00:00.000Z",
+        "ValueDateTime": "2020-12-19T00:00:00.000Z",
+        "TransactionInformation": "CLOTHING OUTLET",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "65.00",
+          "Currency": "USD"
+        }
+      },
+      {
+        "AccountId": "11111111",
+        "TransactionId": "a416ebd8-833d-4ac1-963a-5f3d8c517f3c",
+        "TransactionReference": "SUPERMARKET B",
+        "StatementReference": ["SUPERMARKET B"],
+        "CreditDebitIndicator": "Debit",
+        "Status": "Booked",
+        "BookingDateTime": "2020-12-20T00:00:00.000Z",
+        "ValueDateTime": "2020-12-20T00:00:00.000Z",
+        "TransactionInformation": "SUPERMARKET B",
+        "AddressLine": "LONDON",
+        "Amount": {
+          "Amount": "30.85",
+          "Currency": "USD"
+        }
+      }
+    ]
+  }
